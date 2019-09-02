@@ -29,8 +29,8 @@ Como indica el mensaje, corte y pegue en su navegador uno de esos enlaces y ya t
 
 Una vez se abra la interfaz de Jupyter, se debe seleccionar el *notebook* `Analizando Datos del Cluster Univalle.ipynb`.
 
-Además de este *notebook* se hace necesario tener el archivo *history.csv.gzip*.
-En este archivo se tienen los datos hisóricos del cluster.
+Además de este *notebook* se hace necesario tener el archivo `history.csv.gzip`.
+En este archivo se tienen los datos históricos del cluster.
 
 Estos datos se generan con otra herramienta que se puede encontrar [aquí](aquí).
 
