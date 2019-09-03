@@ -56,7 +56,7 @@ Una vez se identifica el `id` del contenedor se ejecutan las siguientes instrucc
 docker exec 7a  pip install numpy pandas matplotlib
 ```
 
-Una vez se tiene el software instalado en el contenedor se genera una imagen de Docker a partir del mismo como sigue:
+Una vez se tiene el software instalado en el contenedor, se genera una imagen de Docker a partir de este contenedor como sigue:
 
 ```
 docker commit 7a josanabr/jupyter-notebook
