@@ -32,7 +32,7 @@ Una vez se abra la interfaz de Jupyter, se debe seleccionar el *notebook* `Anali
 Además de este *notebook* se hace necesario tener el archivo `history.csv.gzip`.
 En este archivo se tienen los datos históricos del cluster.
 
-Estos datos se generan con otra herramienta que se puede encontrar [aquí](aquí).
+Estos datos se generan con otra herramienta que se puede encontrar [aquí](https://github.com/josanabr/HTCondorHistoryXML2CSV).
 
 ## Información relativa a la imagen `josanabr/jupyter-notebook`
 
