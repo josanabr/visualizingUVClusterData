@@ -11,9 +11,9 @@ Se debe tener entonces instalado Docker en su máquina.
 
 Para ejecutar el notebook se debe ejecutar lo siguiente desde una terminal,
 
-     * Clonar repositorio, `git clone https://github.com/josanabr/visualizingUVClusterData.git`
-     * Ir al directorio `visualizingUVClusterData`
-     * Ejecutar el siguiente comando
+* Clonar repositorio, `git clone https://github.com/josanabr/visualizingUVClusterData.git`
+* Ir al directorio `visualizingUVClusterData`
+* Ejecutar el siguiente comando
 
 ```
 docker run -p 8888:8888 --rm -v $(pwd):/home/jovyan josanabr/jupyter-notebook
